@@ -30,6 +30,7 @@ use IEEE.STD_LOGIC_1164.ALL;
 --use UNISIM.VComponents.all;
 
 entity main is
+  (
 end main;
 
 architecture Behavioral of main is
